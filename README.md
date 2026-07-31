@@ -202,12 +202,9 @@ http://127.0.0.1:5000
 
 ## 📸 Application Preview
 
-```Markdown
-![Application Preview](images/image.png)
-```
+![1785495929211](image/README/1785495929211.png)
 
 ---
-
 
 ## 📝 Conclusion
 
